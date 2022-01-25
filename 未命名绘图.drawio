@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T15:47:30.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="it4L_0Znj6XjIrYySzaS" version="16.2.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-01-25T15:49:02.918Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="sP3Jd1NDCwcBCYe1enME" version="16.2.4" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -283,8 +283,20 @@
         <mxCell id="e7xSSOxczD6faMzn4XPe-17" value="用户微信头像" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
           <mxGeometry x="330" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e7xSSOxczD6faMzn4XPe-18" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
-          <mxGeometry x="270" y="250" width="210" height="30" as="geometry" />
+        <mxCell id="3nQOimFSB1e2VLELN9__-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="300" y="270" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="3nQOimFSB1e2VLELN9__-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="e7xSSOxczD6faMzn4XPe-1" source="3nQOimFSB1e2VLELN9__-6" target="3nQOimFSB1e2VLELN9__-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="300" as="sourcePoint" />
+            <mxPoint x="440" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3nQOimFSB1e2VLELN9__-9" value="个人信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="345" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3nQOimFSB1e2VLELN9__-10" value="健康信息上报" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="345" y="320" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
