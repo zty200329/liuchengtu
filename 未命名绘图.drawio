@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-25T15:44:07.113Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="rAsMfH7h0y7dWjv9ebQZ" version="16.2.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-01-25T15:47:30.040Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="it4L_0Znj6XjIrYySzaS" version="16.2.4" type="github" pages="3">
   <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -223,9 +223,9 @@
           <mxGeometry x="329" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jZc0_gdCaV33vW4GYERl-11" value="" style="shape=rect;rSize=3;strokeColor=none;fillColor=#D2D3D5;gradientColor=none;shadow=0;" vertex="1" parent="jZc0_gdCaV33vW4GYERl-1">
-          <mxGeometry x="293" y="330" width="164" height="110" as="geometry" />
+          <mxGeometry x="293" y="330" width="164" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="jZc0_gdCaV33vW4GYERl-12" value="健康打卡" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;" vertex="1" parent="jZc0_gdCaV33vW4GYERl-11">
+        <mxCell id="jZc0_gdCaV33vW4GYERl-12" value="重点地区返回隔离措施查询" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.topButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;" vertex="1" parent="jZc0_gdCaV33vW4GYERl-11">
           <mxGeometry width="154" height="20" relative="1" as="geometry">
             <mxPoint x="5" y="5" as="offset" />
           </mxGeometry>
@@ -245,9 +245,6 @@
             <mxPoint x="5" y="65" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jZc0_gdCaV33vW4GYERl-19" value="重点地区返回隔离查询" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.bottomButton;rSize=3;strokeColor=#D2D3D5;fontSize=8;fillColor=#F1F1F1;fontColor=#0080F0;resizeWidth=1;" vertex="1" parent="jZc0_gdCaV33vW4GYERl-11">
-          <mxGeometry x="5" y="80" width="154" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="jZc0_gdCaV33vW4GYERl-20" value="显示当地的新增信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="jZc0_gdCaV33vW4GYERl-1">
           <mxGeometry x="255" y="270" width="240" height="40" as="geometry" />
         </mxCell>
@@ -256,6 +253,38 @@
         </mxCell>
         <mxCell id="jZc0_gdCaV33vW4GYERl-22" value="通知信息标题" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jZc0_gdCaV33vW4GYERl-1">
           <mxGeometry x="293" y="220" width="157" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="R_yFmXkFAb45i6zLwGuv" name="第 3 页">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-0" />
+        <mxCell id="e7xSSOxczD6faMzn4XPe-1" parent="e7xSSOxczD6faMzn4XPe-0" />
+        <mxCell id="e7xSSOxczD6faMzn4XPe-2" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.ios7.misc.iphone;strokeColor=#c0c0c0;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="220" y="40" width="310" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="240" y="480" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="e7xSSOxczD6faMzn4XPe-1" source="e7xSSOxczD6faMzn4XPe-3" target="e7xSSOxczD6faMzn4XPe-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="440" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-5" value="我要查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="270" y="485" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-6" value="我的信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="410" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-17" value="用户微信头像" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="330" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="e7xSSOxczD6faMzn4XPe-18" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="e7xSSOxczD6faMzn4XPe-1">
+          <mxGeometry x="270" y="250" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
